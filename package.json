@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/GerardoDepazCruz/sem13#readme",
   "devDependencies": {
+    "jes": "^0.6.1",
     "jest": "^30.2.0"
   }
 }
