@@ -20,5 +20,8 @@
   "homepage": "https://github.com/GerardoDepazCruz/sem13#readme",
   "devDependencies": {
     "jest": "^30.2.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
   }
 }
